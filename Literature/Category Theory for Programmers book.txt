@@ -1,0 +1,12 @@
+https://github.com/hmemcpy/milewski-ctfp-pdf <–– Category Theory for Programmers book. Там же можно найти ссылки на PDF. Все легально!
+
+hmemcpy/milewski-ctfp-pdf
+
+Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source
+Website
+
+https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/
+
+Stars
+10072
+Added by GitHub
