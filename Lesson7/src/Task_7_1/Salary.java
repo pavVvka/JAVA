@@ -1,3 +1,5 @@
+package Task_7_1;
+
 public class Salary {
 
     public int  getSum(Employee[] employeeArray){

@@ -1,3 +1,5 @@
+package Task_7_1;
+
 public class L7_HW_7_1 {
     public static void main(String[] args) {
 //        Задача №1
