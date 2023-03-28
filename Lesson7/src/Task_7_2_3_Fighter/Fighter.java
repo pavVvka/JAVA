@@ -1,15 +1,20 @@
+package Task_7_2_3_Fighter;
+
 public class Fighter {
-    private String name;
-    private int health;
-    private int damage;
-    public Fighter(String name, int health, int damage){
+    public String name;
+    public int health, damagePerAttack;
+    public Fighter(String name, int health, int damagePerAttack) {
         this.name = name;
         this.health = health;
-        this.damage = damage;
+        this.damagePerAttack = damagePerAttack;
     }
+}
+
+
 
 //    public static String declareWinner(Fighter fighter1, Fighter fighter2, String firstAttacker) {
 //        // Your code goes here. Have fun
 //
-//    }
-}
+//
+
+
