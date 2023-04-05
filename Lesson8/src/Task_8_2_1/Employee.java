@@ -7,23 +7,27 @@ package Task_8_2_1;
 //getBaseSalary - базовая ставка
 //setBaseSalary
 public class Employee {
-    String name;
-    int base;
+    private String name;
+    private int base = 100;
+    public Employee(String name, int base){
+        this.name = name;
+        this.base = base;
+    }
 
     String getName(){
         return this.name;
     }
 
-    String setName(String nm){
-        return this.name = nm;
+    void setName(String nm){
+        this.name = nm;
     }
 
     int getBaseSalary(){
         return this.base;
     }
 
-    int setBaseSalary(int bs){
-        return this.base = bs;
+    void setBaseSalary(int bs){
+        this.base = bs;
     }
 }
 
