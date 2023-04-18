@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BellIntegrator/BellIntegrator/BellIntegrator.iml" filepath="$PROJECT_DIR$/BellIntegrator/BellIntegrator/BellIntegrator.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JAVA.iml" filepath="$PROJECT_DIR$/.idea/JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson10/Lesson10.iml" filepath="$PROJECT_DIR$/Lesson10/Lesson10.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson2/Lesson2.iml" filepath="$PROJECT_DIR$/Lesson2/Lesson2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson7/Lesson7.iml" filepath="$PROJECT_DIR$/Lesson7/Lesson7.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson8/Lesson8.iml" filepath="$PROJECT_DIR$/Lesson8/Lesson8.iml" />

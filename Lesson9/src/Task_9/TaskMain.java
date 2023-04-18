@@ -28,6 +28,12 @@ public class TaskMain {
         System.out.println(Options.findByName("Lesha", empList));
         System.out.println("> " + Options.minQtty(empList));
 
+        Employee[] employees = {vanya, pasha, lesha, m1, m2, w1, w2};
+        System.out.println("--> " + Options.budgetSum(employees));
+
+        Options.salaryList(employees);
+
+
 
 
 
